@@ -1,6 +1,0 @@
-machine:
-  python:
-    version: pypy-2.2.1
-test:
-  pre:
-    - ./manage.py resume --no-input
