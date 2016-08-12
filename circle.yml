@@ -1,3 +1,9 @@
 machine:
   python:
     version: 2.7.12
+dependencies:
+  pre:
+    - pip install PIL --allow-external PIL --allow-unverified PIL
+test:
+  pre:
+    - ./manage.py collectstatic --no-input

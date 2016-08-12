@@ -5,11 +5,12 @@
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ignore.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circle.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circle.yml" afterPath="$PROJECT_DIR$/circle.yml" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="circle.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/circle.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0625">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.16666667">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -45,7 +46,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="8-Integrate-Circle-CI" />
       </map>
     </option>
   </component>
@@ -114,20 +115,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="resume">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -154,6 +141,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -161,329 +149,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$USER_HOME$/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/.generators</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/.name</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/.rakeTasks</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/cookingBook.iml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/modules.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/runConfigurations/Development__cookingBook.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/runConfigurations/Production__cookingBook.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/runConfigurations/spec__cookingBook.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/runConfigurations/test__cookingBook.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/vcs.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/Gemfile</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/Gemfile.lock</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/Procfile</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/README.rdoc</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/Rakefile</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/about-chef-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/banner/banner-blog.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/banner/header-banner.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/bg-ingredients.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/bg-nutritional.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/bg-tips.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/favicon.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/footer-bg-full.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/footer-corner-image.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/logo.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/logo2.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/main-recipe1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/steps-tab1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/about-chef-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/add-side.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/author-avatar.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/banner-blog.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/bg-corner-shef.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/bg-tips.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team10.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team11.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team12.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team7.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/chef-team8.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/footer-bg-full.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/full-slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/full-slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/full-slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/gravatar1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/gravatar2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/gravatar3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/gravatar4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/head-chef.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/header-banner.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/image-overlay.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/listing-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/listing-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/listing-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/listing-4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/main-recipe7.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/post-image-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/post-image-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/recipe-comment1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/recipe-comment2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/recipe-of-the-day.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/slide-recipe-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/slide1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/slide2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/slider-detail-thumb.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/step1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/step2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/step3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/step4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/step5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/steps-tab1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/images/temp-images/widget-thumbnail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/application.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/custom.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/home.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/jquery.form.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/jquery.meanmenu.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/jquery.selectric.min.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/jquery.swipebox.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/jquery.validate.min.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/slick.min.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/javascripts/wow.js</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/animate.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/application.css~</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/application.scss</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/application.scss~</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/home.scss</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/main.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/meanmenu.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/scaffolds.scss</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/selectric.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/slick-theme.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/slick.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/sliders.scss</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/assets/stylesheets/swipebox.css</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/application_controller.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/concerns/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/home_controller.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/recipes_controller.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/registrations_controller.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/controllers/sliders_controller.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/helpers/application_helper.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/helpers/home_helper.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/helpers/recipes_helper.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/helpers/sliders_helper.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/mailers/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/concerns/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/direction.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/ingredient.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/photo.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/recipe.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/slider.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/tag.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/models/user.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/confirmations/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/mailer/confirmation_instructions.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/mailer/reset_password_instructions.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/mailer/unlock_instructions.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/passwords/edit.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/passwords/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/registrations/edit.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/registrations/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/sessions/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/shared/_links.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/devise/unlocks/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/home/admin.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/home/index.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_banner.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_css.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_fonts.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_footer.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_header.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_js.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_meta.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_preloader.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_search.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/_slider.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/application.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/layouts/home_layout.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/_direction_fields.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/_form.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/_ingredient_fields.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/_photo_fields.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/_tag_fields.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/edit.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/index.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/index.json.jbuilder</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/show.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/recipes/show.json.jbuilder</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/_form.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/edit.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/index.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/index.json.jbuilder</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/new.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/show.html.erb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/app/views/sliders/show.json.jbuilder</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/bin/bundle</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/bin/rails</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/bin/rake</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/bin/setup</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/bin/spring</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config.ru</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/application.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/boot.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/database.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/environment.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/environments/development.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/environments/production.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/environments/test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/assets.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/backtrace_silencers.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/cookies_serializer.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/devise.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/filter_parameter_logging.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/inflections.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/mime_types.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/session_store.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/initializers/wrap_parameters.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/locales/devise.en.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/locales/en.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/puma.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/routes.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/config/secrets.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/cookingBook_cmd.txt</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151210131215_devise_create_users.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151210131250_add_name_column_to_users.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151211135933_create_recipes.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151211145904_add_attachment_image_to_recipes.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151212132950_create_ingredients.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151212133404_create_directions.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151216084420_create_tags.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151216100613_create_sliders.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151216130936_add_attachment_image_to_sliders.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151219214157_add_attachment_slider_to_recipesliders.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151219215959_create_photos.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/migrate/20151219220207_add_attachment_banner_to_photos.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/schema.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/db/seeds.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/lib/assets/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/lib/tasks/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/log/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/nbproject/private/private.properties</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/nbproject/private/private.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/nbproject/private/rake-d.txt</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/nbproject/project.properties</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/nbproject/project.xml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/problems.md</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/404.html</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/422.html</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/500.html</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/favicon.ico</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/robots.txt</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/001/large/slide1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/002/large/slide2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/002/original/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/002/slider/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/002/thumb/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/003/original/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/003/slider/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/photos/banners/000/000/003/thumb/slide-recipe2-detail.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/medium/Screenshot_from_2015-11-19_22_18_15.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/medium/main-recipe1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/original/Screenshot_from_2015-11-19_22_18_15.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/original/main-recipe1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/thumb/Screenshot_from_2015-11-19_22_18_15.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/001/thumb/main-recipe1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/large/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/medium/Screenshot_from_2015-12-10_04_19_06.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/medium/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/original/Screenshot_from_2015-12-10_04_19_06.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/original/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/thumb/Screenshot_from_2015-12-10_04_19_06.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/002/thumb/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/large/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/medium/Screenshot_from_2015-12-13_23_32_28.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/medium/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/original/Screenshot_from_2015-12-13_23_32_28.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/original/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/thumb/Screenshot_from_2015-12-13_23_32_28.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/003/thumb/main-recipe3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/004/large/main-recipe4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/004/medium/main-recipe4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/004/original/main-recipe4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/004/thumb/main-recipe4.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/005/large/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/005/medium/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/005/original/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/005/thumb/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/006/large/main-recipe6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/006/medium/main-recipe6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/006/original/main-recipe6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/006/thumb/main-recipe6.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/007/large/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/007/medium/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/007/original/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/007/slider/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/007/thumb/main-recipe5.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/008/large/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/008/medium/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/008/original/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/recipes/images/000/000/008/thumb/main-recipe2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/001/large/full-slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/001/medium/full-slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/001/original/full-slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/001/thumb/full-slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/002/large/full-slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/002/medium/full-slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/002/original/full-slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/002/thumb/full-slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/003/large/full-slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/003/medium/full-slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/003/original/full-slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/003/thumb/full-slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/005/large/Screenshot_from_2015-12-16_19_35_49.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/005/medium/Screenshot_from_2015-12-16_19_35_49.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/005/original/Screenshot_from_2015-12-16_19_35_49.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/public/system/sliders/images/000/000/005/thumb/Screenshot_from_2015-12-16_19_35_49.png</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/controllers/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/controllers/home_controller_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/controllers/recipes_controller_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/controllers/sliders_controller_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/directions.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/ingredients.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/photos.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/recipes.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/sliders.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/tags.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/fixtures/users.yml</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/helpers/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/integration/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/mailers/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/direction_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/ingredient_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/photo_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/recipe_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/slider_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/tag_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/models/user_test.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/test/test_helper.rb</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/vendor/assets/javascripts/.keep</PATH>
-          <PATH vcs="Git" revision="">$USER_HOME$/vendor/assets/stylesheets/.keep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/circle.yml</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -784,9 +450,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133333" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -857,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/circle.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0625">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.16666667">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
         </state>
       </provider>
