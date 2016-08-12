@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e2f1327-6bcc-4eeb-98ab-831804ca67c8" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/.RubyMine70/config/options/fileEditorProviderManager.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.RubyMine70/config/options/markdown.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.RubyMine70/config/options/multimarkdown.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.RubyMine70/config/options/multimarkdown.shared.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/medium/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/original/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/thumb/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/005/large/Screenshot_from_2015-12-16_19_35_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/005/medium/Screenshot_from_2015-12-16_19_35_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/005/original/Screenshot_from_2015-12-16_19_35_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/005/thumb/Screenshot_from_2015-12-16_19_35_49.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/about-chef-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/about-chef-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/banner/banner-blog.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/banner/banner-blog.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/banner/header-banner.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/banner/header-banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-ingredients.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-ingredients.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-nutritional.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-nutritional.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-tips.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/bg-tips.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/favicon.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/footer-corner-image.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/footer-corner-image.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/logo.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/logo2.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/steps-tab1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/steps-tab1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/about-chef-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/about-chef-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/add-side.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/add-side.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/author-avatar.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/author-avatar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/banner-blog.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/banner-blog.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/bg-corner-shef.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/bg-corner-shef.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/bg-tips.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/bg-tips.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team10.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team11.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team12.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team7.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team8.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/chef-team8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/footer-bg-full.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/footer-bg-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/full-slide-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/gravatar4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/head-chef.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/head-chef.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/header-banner.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/header-banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/image-overlay.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/image-overlay.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/listing-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe7.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/main-recipe7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/post-image-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/post-image-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/post-image-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/post-image-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-comment1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-comment1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-comment2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-comment2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-of-the-day.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/recipe-of-the-day.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide-recipe-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide-recipe-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slider-detail-thumb.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/slider-detail-thumb.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/step5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/steps-tab1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/steps-tab1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/widget-thumbnail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/images/temp-images/widget-thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/concerns/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/mailers/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/mailers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/concerns/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/lib/assets/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/lib/assets/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/lib/tasks/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/lib/tasks/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/log/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/log/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/favicon.ico" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/001/large/slide1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/001/large/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/large/slide2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/large/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/original/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/original/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/slider/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/slider/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/thumb/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/002/thumb/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/original/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/original/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/slider/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/slider/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/thumb/slide-recipe2-detail.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/photos/banners/000/000/003/thumb/slide-recipe2-detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/medium/Screenshot_from_2015-11-19_22_18_15.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/medium/Screenshot_from_2015-11-19_22_18_15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/original/Screenshot_from_2015-11-19_22_18_15.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/original/Screenshot_from_2015-11-19_22_18_15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/thumb/Screenshot_from_2015-11-19_22_18_15.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/001/thumb/Screenshot_from_2015-11-19_22_18_15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/large/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/large/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/medium/Screenshot_from_2015-12-10_04_19_06.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/medium/Screenshot_from_2015-12-10_04_19_06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/medium/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/medium/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/original/Screenshot_from_2015-12-10_04_19_06.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/original/Screenshot_from_2015-12-10_04_19_06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/original/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/original/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/thumb/Screenshot_from_2015-12-10_04_19_06.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/thumb/Screenshot_from_2015-12-10_04_19_06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/thumb/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/002/thumb/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/large/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/large/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/medium/Screenshot_from_2015-12-13_23_32_28.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/medium/Screenshot_from_2015-12-13_23_32_28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/medium/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/medium/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/original/Screenshot_from_2015-12-13_23_32_28.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/original/Screenshot_from_2015-12-13_23_32_28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/original/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/original/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/thumb/Screenshot_from_2015-12-13_23_32_28.png" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/thumb/Screenshot_from_2015-12-13_23_32_28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/thumb/main-recipe3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/003/thumb/main-recipe3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/large/main-recipe4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/large/main-recipe4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/medium/main-recipe4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/medium/main-recipe4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/original/main-recipe4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/original/main-recipe4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/thumb/main-recipe4.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/004/thumb/main-recipe4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/large/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/large/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/medium/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/medium/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/original/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/original/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/thumb/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/005/thumb/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/large/main-recipe6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/large/main-recipe6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/medium/main-recipe6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/medium/main-recipe6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/original/main-recipe6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/original/main-recipe6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/thumb/main-recipe6.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/006/thumb/main-recipe6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/large/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/large/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/medium/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/medium/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/original/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/original/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/slider/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/slider/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/thumb/main-recipe5.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/007/thumb/main-recipe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/large/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/large/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/medium/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/medium/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/original/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/original/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/thumb/main-recipe2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/recipes/images/000/000/008/thumb/main-recipe2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/large/full-slide-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/large/full-slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/medium/full-slide-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/medium/full-slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/original/full-slide-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/original/full-slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/thumb/full-slide-1.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/001/thumb/full-slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/large/full-slide-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/large/full-slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/medium/full-slide-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/medium/full-slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/original/full-slide-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/original/full-slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/thumb/full-slide-2.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/002/thumb/full-slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/large/full-slide-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/large/full-slide-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/medium/full-slide-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/medium/full-slide-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/original/full-slide-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/original/full-slide-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/thumb/full-slide-3.jpg" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/system/sliders/images/000/000/003/thumb/full-slide-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/helpers/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/helpers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/integration/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/integration/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/mailers/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/mailers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/vendor/assets/javascripts/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/../../ror/cookingBook/vendor/assets/stylesheets/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.gitignore" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.generators" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.name" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/cookingBook.iml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/cookingBook.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/Development__cookingBook.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/Development__cookingBook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/Production__cookingBook.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/Production__cookingBook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/spec__cookingBook.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/spec__cookingBook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/test__cookingBook.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/runConfigurations/test__cookingBook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/Gemfile" afterPath="$PROJECT_DIR$/../../ror/cookingBook/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/Gemfile.lock" afterPath="$PROJECT_DIR$/../../ror/cookingBook/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/Procfile" afterPath="$PROJECT_DIR$/../../ror/cookingBook/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/README.rdoc" afterPath="$PROJECT_DIR$/../../ror/cookingBook/README.rdoc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/Rakefile" afterPath="$PROJECT_DIR$/../../ror/cookingBook/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/custom.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/home.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.form.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.meanmenu.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.meanmenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.selectric.min.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.selectric.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.swipebox.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.swipebox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.validate.min.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/jquery.validate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/slick.min.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/slick.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/wow.js" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/javascripts/wow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/animate.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/application.scss" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/application.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/home.scss" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/main.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/meanmenu.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/meanmenu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/scaffolds.scss" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/scaffolds.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/selectric.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/selectric.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/slick-theme.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/slick-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/slick.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/slick.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/sliders.scss" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/sliders.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/swipebox.css" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/assets/stylesheets/swipebox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/home_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/recipes_controller.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/recipes_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/registrations_controller.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/registrations_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/sliders_controller.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/controllers/sliders_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/application_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/home_helper.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/home_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/recipes_helper.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/recipes_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/sliders_helper.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/helpers/sliders_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/direction.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/direction.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/ingredient.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/ingredient.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/photo.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/photo.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/recipe.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/recipe.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/slider.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/slider.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/tag.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/tag.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/models/user.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/confirmations/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/confirmations/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/confirmation_instructions.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/confirmation_instructions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/reset_password_instructions.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/reset_password_instructions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/unlock_instructions.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/mailer/unlock_instructions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/passwords/edit.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/passwords/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/passwords/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/passwords/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/registrations/edit.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/registrations/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/registrations/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/registrations/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/sessions/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/sessions/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/shared/_links.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/shared/_links.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/unlocks/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/devise/unlocks/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/home/admin.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/home/admin.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/home/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_banner.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_banner.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_css.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_css.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_fonts.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_fonts.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_footer.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_header.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_js.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_js.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_meta.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_meta.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_preloader.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_preloader.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_search.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_search.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_slider.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/_slider.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/home_layout.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/layouts/home_layout.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_direction_fields.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_direction_fields.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_form.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_ingredient_fields.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_ingredient_fields.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_photo_fields.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_photo_fields.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_tag_fields.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/_tag_fields.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/edit.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/index.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/index.json.jbuilder" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/index.json.jbuilder" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/show.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/show.json.jbuilder" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/recipes/show.json.jbuilder" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/_form.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/edit.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/index.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/index.json.jbuilder" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/index.json.jbuilder" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/new.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/show.html.erb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/show.json.jbuilder" afterPath="$PROJECT_DIR$/../../ror/cookingBook/app/views/sliders/show.json.jbuilder" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config.ru" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config.ru" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/application.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/application.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/boot.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/boot.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/database.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/environment.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/environment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/development.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/development.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/production.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/production.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/environments/test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/backtrace_silencers.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/cookies_serializer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/devise.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/devise.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/filter_parameter_logging.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/inflections.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/mime_types.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/session_store.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/initializers/wrap_parameters.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/locales/devise.en.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/locales/devise.en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/locales/en.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/puma.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/puma.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/routes.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/config/secrets.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/config/secrets.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151210131215_devise_create_users.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151210131215_devise_create_users.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151210131250_add_name_column_to_users.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151210131250_add_name_column_to_users.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151211135933_create_recipes.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151211135933_create_recipes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151211145904_add_attachment_image_to_recipes.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151211145904_add_attachment_image_to_recipes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151212132950_create_ingredients.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151212132950_create_ingredients.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151212133404_create_directions.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151212133404_create_directions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216084420_create_tags.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216084420_create_tags.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216100613_create_sliders.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216100613_create_sliders.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216130936_add_attachment_image_to_sliders.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151216130936_add_attachment_image_to_sliders.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219214157_add_attachment_slider_to_recipesliders.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219214157_add_attachment_slider_to_recipesliders.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219215959_create_photos.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219215959_create_photos.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219220207_add_attachment_banner_to_photos.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/migrate/20151219220207_add_attachment_banner_to_photos.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/schema.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/db/seeds.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/db/seeds.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/rake-d.txt" afterPath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/private/rake-d.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/project.properties" afterPath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/project.xml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/problems.md" afterPath="$PROJECT_DIR$/../../ror/cookingBook/problems.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/404.html" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/422.html" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/422.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/500.html" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/public/robots.txt" afterPath="$PROJECT_DIR$/../../ror/cookingBook/public/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/home_controller_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/home_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/recipes_controller_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/recipes_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/sliders_controller_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/controllers/sliders_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/directions.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/directions.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/ingredients.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/ingredients.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/photos.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/photos.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/recipes.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/recipes.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/sliders.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/sliders.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/tags.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/tags.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/users.yml" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/fixtures/users.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/direction_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/direction_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/ingredient_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/ingredient_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/photo_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/photo_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/recipe_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/recipe_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/slider_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/slider_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/tag_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/tag_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/models/user_test.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/models/user_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ror/cookingBook/test/test_helper.rb" afterPath="$PROJECT_DIR$/../../ror/cookingBook/test/test_helper.rb" />
+    </list>
+    <ignored path="resume.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="resume" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1440" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2f1327-6bcc-4eeb-98ab-831804ca67c8" name="Default" comment="" />
+      <created>1470326954808</created>
+      <option name="number" value="Default" />
+      <updated>1470326954808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1440" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25824964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34133333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
