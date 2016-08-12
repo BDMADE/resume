@@ -1,6 +1,6 @@
 machine:
   python:
-    version: pypy-5.1.2
+    version: 2.2.1
 test:
   pre:
     - ./manage.py collectstatic --no-input
