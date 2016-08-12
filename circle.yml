@@ -1,9 +1,6 @@
 machine:
   python:
-    version: pypy-2.2.1
-dependencies:
-  pre:
-    - pip install PIL --allow-external PIL --allow-unverified PIL
+    version: pypy-5.1.2
 test:
   pre:
     - ./manage.py collectstatic --no-input
