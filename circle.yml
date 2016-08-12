@@ -1,6 +1,6 @@
 machine:
   python:
-    version: 2.7.12
+    version: pypy-2.2.1
 dependencies:
   pre:
     - pip install PIL --allow-external PIL --allow-unverified PIL
