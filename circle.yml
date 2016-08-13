@@ -3,4 +3,4 @@ machine:
       version: pypy-2.2.1
 test:
    pre:
-    - manage.py test
+    - python src/manage.py test
