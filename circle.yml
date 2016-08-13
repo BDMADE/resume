@@ -2,5 +2,5 @@ machine:
     python:
       version: pypy-2.2.1
 test:
-   pre:
-    - python manage.py test
+   post:
+    - python src/manage.py test
