@@ -2,10 +2,259 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2f1327-6bcc-4eeb-98ab-831804ca67c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/c3df6269-e28f-41b9-b26c-b2c9313690e7/console.sql" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Clojure.json.clj" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.clj" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ignore.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/about-chef-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/banner/banner-blog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/banner/header-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-ingredients.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-nutritional.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-tips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/footer-bg-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/footer-corner-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/slide-recipe2-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/steps-tab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/about-chef-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/add-side.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/author-avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/banner-blog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/bg-corner-shef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/bg-tips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/footer-bg-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/head-chef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/header-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/image-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/post-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/post-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-comment1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-comment2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-of-the-day.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide-recipe-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide-recipe2-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slider-detail-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/steps-tab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/widget-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/home.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.meanmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.selectric.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.swipebox.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/wow.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/application.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/home.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/meanmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/scaffolds.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/selectric.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/sliders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/swipebox.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/home_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/recipes_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/registrations_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/sliders_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/home_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/recipes_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/sliders_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/direction.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/ingredient.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/photo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/recipe.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/slider.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/confirmations/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/confirmation_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/reset_password_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/unlock_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/passwords/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/passwords/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/registrations/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/registrations/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/sessions/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/shared/_links.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/unlocks/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/home/admin.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/home/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_banner.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_css.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_fonts.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_footer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_header.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_js.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_meta.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_preloader.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_search.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_slider.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/home_layout.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_direction_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_ingredient_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_photo_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_tag_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/spring" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/devise.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/locales/devise.en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/puma.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/cookingBook_cmd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151210131215_devise_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151210131250_add_name_column_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151211135933_create_recipes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151211145904_add_attachment_image_to_recipes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151212132950_create_ingredients.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151212133404_create_directions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216084420_create_tags.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216100613_create_sliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216130936_add_attachment_image_to_sliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219214157_add_attachment_slider_to_recipesliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219215959_create_photos.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219220207_add_attachment_banner_to_photos.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/rake-d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/problems.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/home_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/recipes_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/sliders_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/directions.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/ingredients.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/photos.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/recipes.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/sliders.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/tags.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/users.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/direction_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/ingredient_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/photo_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/recipe_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/slider_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/tag_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/user_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/experience/admin.py" afterPath="$PROJECT_DIR$/src/experience/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/experience/models.py" afterPath="$PROJECT_DIR$/src/experience/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resume/settings.py" afterPath="$PROJECT_DIR$/src/resume/settings.py" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,12 +270,79 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Sqlite (Xerial) - db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Sqlite (Xerial) - db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="experience_experience" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="resume" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/experience/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/experience/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5625">
+              <caret line="18" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1471260566080" expanded="true" signature="131:376" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -43,6 +359,10 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/circle.yml" />
+        <option value="$PROJECT_DIR$/src/resume/settings.py" />
+        <option value="$PROJECT_DIR$/src/experience/admin.py" />
+        <option value="dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/experience_experience" />
+        <option value="$PROJECT_DIR$/src/experience/models.py" />
       </list>
     </option>
   </component>
@@ -100,6 +420,56 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resume">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="experience">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -325,12 +695,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1440" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17718795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18005739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133333" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -400,6 +770,58 @@
         <state vertical-scroll-proportion="-1.7985075">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/experience/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15625">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/experience/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/experience_experience">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/experience/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5625">
+          <caret line="18" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1471260566080" expanded="true" signature="131:376" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
