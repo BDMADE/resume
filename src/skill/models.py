@@ -9,6 +9,12 @@ class Skill(models.Model):
     created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
+    def __unicode__(self):
+        return self.name
+
+    def __str__(self):
+        return  self.name
+
 
 class Subskill(models.Model):
     skill = models.ForeignKey(Skill, on_delete=models.CASCADE)
@@ -16,5 +22,11 @@ class Subskill(models.Model):
     link = models.CharField(max_length=256)
     created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
+
+    def __unicode__(self):
+        return self.name
+
+    def __str__(self):
+        return self.name
 
 
