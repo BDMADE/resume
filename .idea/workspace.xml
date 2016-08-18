@@ -2,10 +2,266 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2f1327-6bcc-4eeb-98ab-831804ca67c8" name="Default" comment="">
+<<<<<<< HEAD
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/experience/migrations/0001_initial.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/experience/models.py" afterPath="$PROJECT_DIR$/src/experience/models.py" />
+=======
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/c3df6269-e28f-41b9-b26c-b2c9313690e7/console.sql" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.clj" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Clojure.json.clj" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ignore.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/sliders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.meanmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/users.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/banner/header-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_preloader.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/footer-bg-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide-recipe-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151211145904_add_attachment_image_to_recipes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_ingredient_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/unlock_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/slide-recipe2-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216130936_add_attachment_image_to_sliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/shared/_links.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/recipe.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219220207_add_attachment_banner_to_photos.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/meanmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151210131250_add_name_column_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/bg-corner-shef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-comment2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_fonts.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/sliders.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_direction_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/registrations/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/head-chef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/reset_password_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/sliders_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_footer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/sliders_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-of-the-day.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/home.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/passwords/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/direction.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219214157_add_attachment_slider_to_recipesliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/post-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/confirmations/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/recipe_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.swipebox.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-nutritional.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide-recipe2-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/recipes.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151212133404_create_directions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/scaffolds.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/home/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/directions.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_banner.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/tag_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/photos.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_tag_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/slider_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/bg-tips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_js.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/footer-bg-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-ingredients.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/banner-blog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/ingredient_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151210131215_devise_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/application.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/bg-tips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/home/admin.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/direction_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/home_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/passwords/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/ingredients.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/home_layout.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/recipe-comment1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/photo_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/nbproject/private/rake-d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/home_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/image-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151211135933_create_recipes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/registrations/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/selectric.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/user_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/sliders_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/home.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/problems.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/header-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/spring" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/locales/devise.en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/unlocks/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/puma.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/home_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216100613_create_sliders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/listing-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/about-chef-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/devise.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151219215959_create_photos.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/mailer/confirmation_instructions.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/widget-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/registrations_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/about-chef-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slider-detail-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/stylesheets/swipebox.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/ingredient.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/fixtures/tags.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.selectric.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/author-avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/_photo_fields.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151216084420_create_tags.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/steps-tab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_css.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/post-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/footer-corner-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/db/migrate/20151212132950_create_ingredients.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/recipes/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/controllers/recipes_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_meta.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_header.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_slider.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/layouts/_search.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/main-recipe3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/full-slide-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/main-recipe7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/photo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/javascripts/wow.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/banner/banner-blog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/test/controllers/recipes_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/steps-tab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/sliders/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/views/devise/sessions/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/gravatar1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/recipes_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/add-side.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/cookingBook_cmd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/assets/images/temp-images/chef-team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/app/models/slider.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/skill/models.py" afterPath="$PROJECT_DIR$/src/skill/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/skill/admin.py" afterPath="$PROJECT_DIR$/src/skill/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+>>>>>>> master
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,6 +300,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,6 +328,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+=======
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/skill/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.90625">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+>>>>>>> master
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -78,6 +342,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/14ac6c4a-fe68-40ea-b726-697b0622cdd2/console.sql">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,6 +353,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> master
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -105,11 +372,20 @@
       <list>
         <option value="$PROJECT_DIR$/circle.yml" />
         <option value="$PROJECT_DIR$/src/resume/settings.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/experience/admin.py" />
         <option value="dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/experience_experience" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/experience/models.py" />
         <option value="dbtable:/9a6a7138/14ac6c4a-fe68-40ea-b726-697b0622cdd2/experience_experience" />
+=======
+        <option value="dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/auth_group" />
+        <option value="$PROJECT_DIR$/src/skill/admin.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/skill/models.py" />
+        <option value="dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/auth_user" />
+        <option value="dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/skill_skill" />
+>>>>>>> master
       </list>
     </option>
   </component>
@@ -185,6 +461,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT USER_OBJECT="External Dependencies">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -243,10 +520,13 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+=======
+>>>>>>> master
             <PATH_ELEMENT USER_OBJECT="resume">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT USER_OBJECT="src">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -255,6 +535,8 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+=======
+>>>>>>> master
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -269,6 +551,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT USER_OBJECT="experience">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -277,6 +560,8 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+=======
+>>>>>>> master
           </PATH>
         </subPane>
       </pane>
@@ -342,6 +627,47 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="resume" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="port" value="8090" />
+      <option name="browserUrl" value="http://127.0.0.1:8090/" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="resume" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,7 +700,10 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+<<<<<<< HEAD
       <node-interpreter>project</node-interpreter>
+=======
+>>>>>>> master
       <node-options />
       <gulpfile />
       <tasks />
@@ -520,15 +849,26 @@
     <frame x="0" y="24" width="1832" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1424581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133333" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31492108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133333" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1886657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> master
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31926122" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> master
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -559,6 +899,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -573,13 +914,10 @@
           <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/experience/models.py">
+=======
+    <entry file="file://$PROJECT_DIR$/src/skill/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -587,6 +925,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+>>>>>>> master
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/experience/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+=======
+    <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+>>>>>>> master
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/skill/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resume/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -619,6 +1053,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/experience/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -656,7 +1091,90 @@
     <entry file="dbDummy://dbtable:/9a6a7138/14ac6c4a-fe68-40ea-b726-697b0622cdd2/experience_experience">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+=======
+    <entry file="file://$PROJECT_DIR$/src/resume/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/auth_group">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c3df6269-e28f-41b9-b26c-b2c9313690e7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/django_migrations">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/skill_subskill">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+>>>>>>> master
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15625">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resume/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40625">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6959459">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -676,11 +1194,68 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/14ac6c4a-fe68-40ea-b726-697b0622cdd2/console.sql">
+=======
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/auth_user">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/skill_skill">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a08f0779/c3df6269-e28f-41b9-b26c-b2c9313690e7/django_session">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/manage.py">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skill/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90625">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
