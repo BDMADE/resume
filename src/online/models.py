@@ -1,6 +1,7 @@
 from __future__ import unicode_literals
 
 from django.db import models
+from icon.models import Icon
 
 
 # Create your models here.
@@ -8,6 +9,7 @@ from django.db import models
 class Online(models.Model):
     name = models.CharField(max_length=250)
     link = models.CharField(max_length=500)
+    icons = models.ManyToManyField('icon.Icon')
 
     def __unicode__(self):
         return self.name
