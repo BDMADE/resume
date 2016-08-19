@@ -7,10 +7,10 @@ from django.db import models
 
 class Experience(models.Model):
     designation = models.CharField(max_length=250)
-    department = models.CharField(max_length=250, null=True)
+    department = models.CharField(max_length=250, null=True, blank=True)
     present = models.BooleanField(default=False)
     joining_date = models.DateField()
-    ending_date = models.DateField(null=True)
+    ending_date = models.DateField(null=True, blank=True)
 
     def __unicode__(self):
         return self.designation
