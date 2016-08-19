@@ -5,10 +5,7 @@ from django.db import models
 
 # Create your models here.
 class About(models.Model):
-    class Meta:
-        verbose_name = 'About'
-        verbose_plural_name = 'Abouts'
-
+    name = models.CharField(max_length=255)
     details = models.TextField(max_length=1500, verbose_name='About')
     download = models.CharField(max_length=300)
 
