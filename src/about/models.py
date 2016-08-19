@@ -7,7 +7,7 @@ from django.db import models
 class About(models.Model):
     name = models.CharField(max_length=255)
     details = models.TextField(max_length=1500, verbose_name='About')
-    download = models.CharField(max_length=300)
+    cv_link = models.CharField(max_length=300)
 
     def __unicode__(self):
         return self.name
