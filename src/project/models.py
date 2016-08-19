@@ -45,8 +45,8 @@ class ProjectList(models.Model):
     download_link = models.CharField(max_length=255, null=True, blank=True)
     bitbucket_link = models.CharField(max_length=255, null=True, blank=True)
     website_link = models.CharField(max_length=255, null=True, blank=True)
-    tools = models.ManyToManyField(Tool, blank=True, null=True, on_delete=models.CASCADE)
-    gems = models.ManyToManyField(Gem, blank=True, null=True, on_delete=models.CASCADE)
+    tools = models.ManyToManyField(Tool, blank=True)
+    gems = models.ManyToManyField(Gem, blank=True)
 
     def __unicode__(self):
         return self.name
