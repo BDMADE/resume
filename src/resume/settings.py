@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-
+    'project.apps.ProjectConfig',
     'icon.apps.IconConfig',
     'online.apps.OnlineConfig',
     'experience.apps.ExperienceConfig',
