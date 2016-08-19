@@ -92,4 +92,4 @@ ENV/
 .idea/
 
 # database
-src/db.sqlite3
+db.sqlite3
