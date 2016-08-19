@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'certificate.apps.CertificateConfig',
     'project.apps.ProjectConfig',
     'icon.apps.IconConfig',
     'online.apps.OnlineConfig',
