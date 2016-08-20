@@ -93,3 +93,6 @@ ENV/
 
 # database
 db.sqlite3
+*.pyc
+myvenv
+__pycache__
