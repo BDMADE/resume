@@ -1,3 +1,4 @@
+
 """
 Django settings for resume project on Heroku. Fore more info, see:
 https://github.com/heroku/heroku-django-template
