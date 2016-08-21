@@ -16,7 +16,6 @@ import dj_database_url
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.9/howto/deployment/checklist/
 
@@ -28,7 +27,17 @@ DEBUG = True
 
 # Application definition
 
+
 INSTALLED_APPS = [
+    'about.apps.AboutConfig',
+    'website.apps.WebsiteConfig',
+    'contact.apps.ContactConfig',
+    'certificate.apps.CertificateConfig',
+    'project.apps.ProjectConfig',
+    'icon.apps.IconConfig',
+    'online.apps.OnlineConfig',
+    'experience.apps.ExperienceConfig',
+    'skill.apps.SkillConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -73,7 +82,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'resume.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
