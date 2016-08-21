@@ -10,4 +10,4 @@ This project is made for `Tanbir Hasan` by django and hosted it in heroku server
 
 3. Migrate all tables using this command: `python manage.py migrate`
 
-4. Create super user for administration using this command: `pyrhon manage.py createsuperuser`
+4. Create super user for administration using this command: `python manage.py createsuperuser`
