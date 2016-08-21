@@ -89,7 +89,7 @@ ENV/
 .ropeproject
 
 # pycharm folder
-.idea/
+.idea
 
 # database
 db.sqlite3
