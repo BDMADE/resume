@@ -1,6 +1,10 @@
 {% extends 'base.html' %}
 <!-- block for website -->
 
+{% block website_title %}
+{{ website.title|safe }}
+{% endblock website_title %}
+
 {% block website_name %}
 {{ website.name|safe }}
 {% endblock website_name %}

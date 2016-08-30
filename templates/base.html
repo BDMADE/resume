@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta charset="UTF-8">
-  <title>HMTanbir-Ruby on Rails Developer</title>
+  <title>{% block website_title %}{% endblock website_title %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=no">
   <meta name="robots" content="index,Follow"/>
   <meta name="description" content="Home">
@@ -31,6 +31,7 @@
 <body>
 <header>
   <!-- My small picture -->
+  <!--<img class="mesmall" src="{% static 'img/tanbir.png' %}" alt="tanbir">-->
   <img class="mesmall" src="{% static 'img/tanbir.png' %}" alt="tanbir">
   <h1 class="myname">{% block website_name %}{% endblock website_name %}</h1>
   <nav class="navbar navbar-default">
