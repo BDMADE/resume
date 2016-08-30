@@ -62,7 +62,10 @@
 <div class="wrap">
   <!-- About -->
   <div class="content about active">
-
+    <h1><b>{% block about_name %}{% endblock about_name %}</b></h1>
+ {% block about_details %}{% endblock about_details %}
+    <a href="{% block about_cv_link %}{% endblock about_cv_link %}" target="_blank"> <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
+</a>
   </div> <!-- Skills -->
   <div class="content skills">
   </div>

@@ -1,8 +1,23 @@
 {% extends 'base.html' %}
+<!-- block for website -->
+
 {% block website_name %}
-{{website.name}}
+{{ website.name|safe }}
 {% endblock website_name %}
 
 {% block website_logo %}
-{{website.logo}}
+{{ website.logo }}
 {% endblock website_logo %}
+
+<!-- block for about -->
+{% block about_name %}
+{{ about.name|safe }}
+{% endblock about_name %}
+
+{% block about_details %}
+{{ about.details|safe }}
+{% endblock about_details %}
+
+{% block about_cv_link %}
+{{ about.cv_link|safe }}
+{% endblock about_cv_link %}
