@@ -1,5 +1,8 @@
 {% extends 'base.html' %}
-{% block content %}
-<h1>Hi,{{ name }}</h1>
+{% block website_name %}
+{{website.name}}
+{% endblock website_name %}
 
-{% endblock content %}
+{% block website_logo %}
+{{website.logo}}
+{% endblock website_logo %}

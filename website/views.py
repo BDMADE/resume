@@ -5,6 +5,6 @@ from .models import Website
 
 # Create your views here.
 def home(request):
-    name = Website.name
-    context = {'name': name}
+    website = Website.objects.last()
+    context = {'website': website}
     return render(request, 'website.html', context)

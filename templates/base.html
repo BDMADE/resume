@@ -32,7 +32,7 @@
 <header>
   <!-- My small picture -->
   <img class="mesmall" src="{% static 'img/tanbir.png' %}" alt="tanbir">
-  <h1 class="myname">Hasan Mohammad Tanbir</h1>
+  <h1 class="myname">{% block website_name %}{% endblock website_name %}</h1>
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
