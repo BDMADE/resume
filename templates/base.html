@@ -2,30 +2,30 @@
 <!--DOCTYPE html -->
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta charset="UTF-8">
-  <title>{% block website_title %}{% endblock website_title %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=no">
-  <meta name="robots" content="index,Follow"/>
-  <meta name="description" content="Home">
-  <meta name="keywords" content="Home,Home">
-  <meta name="author" content="Tanbir Hasan"/>
-  <!-- Stylesheet -->
-  <!-- Stylesheet -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap-theme.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel='stylesheet' href="{% static 'css/styles.css' %}" />
-  <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <title>{% block website_title %}{% endblock website_title %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=no">
+    <meta name="robots" content="index,Follow"/>
+    <meta name="description" content="Home">
+    <meta name="keywords" content="Home,Home">
+    <meta name="author" content="Tanbir Hasan"/>
+    <!-- Stylesheet -->
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href="{% static 'css/styles.css' %}"/>
+    <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
 
-  <!-- Google Font -->
-  <link
-      href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic'
-      rel='stylesheet' type='text/css'>
-  <!-- Java Sript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
-          type="text/javascript"></script>
+    <!-- Google Font -->
+    <link
+            href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic'
+            rel='stylesheet' type='text/css'>
+    <!-- Java Sript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
+            type="text/javascript"></script>
 </head>
 
 <body>
@@ -47,25 +47,24 @@
         </button>
       </div>
 
-      <div class="collapse navbar-collapse" id="navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li><a class="active" href="about">About</a></li>
-          <li><a href="skills">Skills</a></li>
-          <li><a href="work">Work Experiences</a></li>
-          <li><a href="project">Projects</a></li>
-          <li><a href="certificates">Certificates</a></li>
-          <li><a href="contact">Contact</a></li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a class="active" href="about">About</a></li>
+                    <li><a href="skills">Skills</a></li>
+                    <li><a href="work">Work Experiences</a></li>
+                    <li><a href="project">Projects</a></li>
+                    <li><a href="certificates">Certificates</a></li>
+                    <li><a href="contact">Contact</a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
 </header>
 <div class="wrap">
   <!-- About -->
   <div class="content about active">
     <h1><b>{% block about_name %}{% endblock about_name %}</b></h1>
  {% block about_details %}{% endblock about_details %}
-    <a href="{% block about_cv_link %}{% endblock about_cv_link %}" target="_blank"> <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
 </a>
   </div> <!-- Skills -->
   <div class="content skills">
@@ -73,21 +72,21 @@
   </div>
 
 
-  <!-- Work -->
-  <div class="content work">
-  </div>
-  <!-- Project -->
-  <div class="content project">
-  </div>
-  <!-- Education -->
-  <div class="content certificates">
-  </div>
-  <!-- Contact -->
-  <div class="content contact">
-  </div>
-  <footer>
+    <!-- Work -->
+    <div class="content work">
+    </div>
+    <!-- Project -->
+    <div class="content project">
+    </div>
+    <!-- Education -->
+    <div class="content certificates">
+    </div>
+    <!-- Contact -->
+    <div class="content contact">
+    </div>
+    <footer>
 
-  </footer>
+    </footer>
 </div>
 
 <!-- Java Script -->
