@@ -16,7 +16,7 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel='stylesheet' href="{% static 'css/styles.css' %}" />
+  <link rel='stylesheet' href="{% static 'css/styles.css' %}"/>
   <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
 
   <!-- Google Font -->
@@ -64,9 +64,10 @@
   <!-- About -->
   <div class="content about active">
     <h1><b>{% block about_name %}{% endblock about_name %}</b></h1>
- {% block about_details %}{% endblock about_details %}
-    <a href="{% block about_cv_link %}{% endblock about_cv_link %}" target="_blank"> <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
-</a>
+    {% block about_details %}{% endblock about_details %}
+    <a href="{% block about_cv_link %}{% endblock about_cv_link %}" target="_blank">
+      <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
+    </a>
   </div> <!-- Skills -->
   <div class="content skills">
     {% block skill %}{% endblock skill %}
@@ -75,6 +76,7 @@
 
   <!-- Work -->
   <div class="content work">
+    {% block experience %}{% endblock experience %}
   </div>
   <!-- Project -->
   <div class="content project">

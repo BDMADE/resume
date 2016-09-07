@@ -2,7 +2,8 @@ from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import Website
 from about.models import About
-from skill.models import Skill, Subskill
+from skill.models import Skill
+from experience.models import Experience
 
 
 # Create your views here.
@@ -10,9 +11,10 @@ def home(request):
     website = Website.objects.last()
     about = About.objects.last()
     skills = Skill.objects.all().prefetch_related('subskill_set')
-
+    experiences = Experience.objects.all().prefetch_related('todo_set')
     context = {'website': website,
                'about': about,
-               'skills': skills
+               'skills': skills,
+               'experiences': experiences
                }
     return render(request, 'website.html', context)

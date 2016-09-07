@@ -32,9 +32,38 @@
 {% for skill in skills %}
 <ul>
   <li><span class="bigger"><b>{{skill.name}}</b></span></li>
-    {% for subskill in skill.subskill_set.all %}
-      <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span></li>
-    {% endfor %}
+  {% for subskill in skill.subskill_set.all %}
+  <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span>
+  </li>
+  {% endfor %}
   {% endfor %}
 </ul>
 {% endblock skill %}
+
+<!-- block for experience -->
+{% block experience %}
+<h2 class="title"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>Work experiences</h2>
+
+
+{% for experience in experiences %}
+<ul>
+  <li><span class="smaller"><span class="time glyphicon glyphicon-time" aria-hidden="true"></span>
+    {{ experience.joining_date }} - {% if experience.present %}Present{% endif %}{% if experience.ending_date %}{{ experience.ending_date }}{% endif %}</span>
+  </li>
+  <li><span class="bigger">{{ experience.designation }}</span></li>
+  {% if experience.department %}
+  <li><span class="bigger2">{{ experience.department }}</span></li>
+  {% endif %}
+  <li><span class="bigger"><b><a href="#" target="_blank">{{ experience.organization }}</a></b></span>
+  </li>
+
+  {% for todo in experience.todo_set.all %}
+  <li><span class="smaller"><span class="glyphicon glyphicon-wrench"
+                                  aria-hidden="true"></span><i>{{todo.description}}</i></span></li>
+  {% endfor %}
+
+</ul>
+
+
+{% endfor %}
+{% endblock experience %}
