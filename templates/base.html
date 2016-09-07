@@ -2,6 +2,7 @@
 <!--DOCTYPE html -->
 <html>
 <head>
+  <<<<<<< HEAD
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta charset="UTF-8">
   <title>{% block website_title %}{% endblock website_title %}</title>
@@ -18,6 +19,24 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel='stylesheet' href="{% static 'css/styles.css' %}"/>
   <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
+  =======
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <title>{% block website_title %}{% endblock website_title %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=no">
+  <meta name="robots" content="index,Follow"/>
+  <meta name="description" content="Home">
+  <meta name="keywords" content="Home,Home">
+  <meta name="author" content="Tanbir Hasan"/>
+  <!-- Stylesheet -->
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel='stylesheet' href="{% static 'css/styles.css' %}"/>
+  <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
+  >>>>>>> f5a0d93631d4c94fe274044cd57c71a9cb226dba
 
   <!-- Google Font -->
   <link
@@ -68,11 +87,12 @@
     <a href="{% block about_cv_link %}{% endblock about_cv_link %}" target="_blank">
       <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
     </a>
-  </div> <!-- Skills -->
+  </div>
+
+  <!-- Skills -->
   <div class="content skills">
     {% block skill %}{% endblock skill %}
   </div>
-
 
   <!-- Work -->
   <div class="content work">
@@ -88,7 +108,6 @@
   <div class="content contact">
   </div>
   <footer>
-
   </footer>
 </div>
 
