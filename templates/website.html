@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+<!-- block for website -->
+
+{% block website_title %}
+{{ website.title|safe }}
+{% endblock website_title %}
+
+{% block website_name %}
+{{ website.name|safe }}
+{% endblock website_name %}
+
+{% block website_logo %}
+<img class="mesmall" src="media/{{ website.logo }}" alt="tanbir">
+{% endblock website_logo %}
+
+<!-- block for about -->
+{% block about_name %}
+{{ about.name|safe }}
+{% endblock about_name %}
+
+{% block about_details %}
+{{ about.details|safe }}
+{% endblock about_details %}
+
+{% block about_cv_link %}
+{{ about.cv_link|safe }}
+{% endblock about_cv_link %}
+
+<!-- block for skill -->
+{% block skill %}
+<h2 class="title"><span class="glyphicon glyphicon-star" aria-hidden="true"></span>Skill Sets</h2>
+{% for skill in skills %}
+<ul>
+  <li><span class="bigger"><b>{{skill.name}}</b></span></li>
+    {% for subskill in skill.subskill_set.all %}
+      <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span></li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+{% endblock skill %}
