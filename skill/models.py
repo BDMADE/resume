@@ -13,7 +13,7 @@ class Skill(models.Model):
         return self.name
 
     def __str__(self):
-        return  self.name
+        return self.name
 
 
 class Subskill(models.Model):
@@ -28,5 +28,3 @@ class Subskill(models.Model):
 
     def __str__(self):
         return self.name
-
-
