@@ -4,8 +4,18 @@ from django.db import models
 
 
 # Create your models here.
+class Organization(models.Model):
+    name = models.CharField(max_length=255)
+
+    def __unicode__(self):
+        return self.name
+
+    def __str__(self):
+        return self.name
+
 
 class Experience(models.Model):
+    organization = models.ForeignKey(Organization, on_delete=models.CASCADE)
     designation = models.CharField(max_length=250)
     department = models.CharField(max_length=250, null=True, blank=True)
     present = models.BooleanField(default=False)
