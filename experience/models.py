@@ -27,3 +27,14 @@ class Experience(models.Model):
 
     def __str__(self):
         return self.designation
+
+
+class Todo(models.Model):
+    description = models.CharField(max_length=400)
+    experience = models.ForeignKey(Experience, on_delete=models.CASCADE)
+
+    def __unicode__(self):
+        return self.description
+
+    def __str__(self):
+        return self.description
