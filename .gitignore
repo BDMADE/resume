@@ -89,10 +89,11 @@ ENV/
 .ropeproject
 
 # pycharm folder
-.idea
+.idea/
 
 # database
 db.sqlite3
 *.pyc
 myvenv
 __pycache__
+
