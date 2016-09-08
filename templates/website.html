@@ -31,12 +31,12 @@
 <h2 class="title"><span class="glyphicon glyphicon-star" aria-hidden="true"></span>Skill Sets</h2>
 {% for skill in skills %}
 <ul>
-  <li><span class="bigger"><b>{{skill.name}}</b></span></li>
-  {% for subskill in skill.subskill_set.all %}
-  <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span>
-  </li>
-  {% endfor %}
-  {% endfor %}
+    <li><span class="bigger"><b>{{skill.name}}</b></span></li>
+    {% for subskill in skill.subskill_set.all %}
+    <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span>
+    </li>
+    {% endfor %}
+    {% endfor %}
 </ul>
 {% endblock skill %}
 
@@ -47,23 +47,88 @@
 
 {% for experience in experiences %}
 <ul>
-  <li><span class="smaller"><span class="time glyphicon glyphicon-time" aria-hidden="true"></span>
-    {{ experience.joining_date }} - {% if experience.present %}Present{% endif %}{% if experience.ending_date %}{{ experience.ending_date }}{% endif %}</span>
-  </li>
-  <li><span class="bigger">{{ experience.designation }}</span></li>
-  {% if experience.department %}
-  <li><span class="bigger2">{{ experience.department }}</span></li>
-  {% endif %}
-  <li><span class="bigger"><b><a href="#" target="_blank">{{ experience.organization }}</a></b></span>
-  </li>
+    <li><span class="smaller"><span class="time glyphicon glyphicon-time" aria-hidden="true"></span>
+        {{ experience.joining_date }} - {% if experience.present %}Present{% endif %}{% if experience.ending_date %}{{ experience.ending_date }}{% endif %}</span>
+    </li>
+    <li><span class="bigger">{{ experience.designation }}</span></li>
+    {% if experience.department %}
+    <li><span class="bigger2">{{ experience.department }}</span></li>
+    {% endif %}
+    <li><span class="bigger"><b><a href="#" target="_blank">{{ experience.organization }}</a></b></span>
+    </li>
 
-  {% for todo in experience.todo_set.all %}
-  <li><span class="smaller"><span class="glyphicon glyphicon-wrench"
-                                  aria-hidden="true"></span><i>{{todo.description}}</i></span></li>
-  {% endfor %}
+    {% for todo in experience.todo_set.all %}
+    <li><span class="smaller"><span class="glyphicon glyphicon-wrench"
+                                    aria-hidden="true"></span><i>{{todo.description}}</i></span></li>
+    {% endfor %}
 
 </ul>
 
-
 {% endfor %}
 {% endblock experience %}
+
+<!-- block for project -->
+{% block project %}
+
+
+{% for project in projects %}
+<h2 class="title"><span class="{{project.icon.icon_attribute}}" aria-hidden="true"></span>&nbsp;{{project.name}}</h2>
+
+{% for projectlist in project.projectlist_set.all %}
+<ul>
+    <li><span class="bigger"><b>{{projectlist.name}}</b></span></li>
+    <li><span class="bigger2">{{projectlist.description}}</span></li>
+
+    {% if projectlist.tools %}
+    <li><span class="smaller"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>Tools Used:
+        {% for tool in projectlist.tools.all %}
+        <a href="{{tool.link}}" target="_blank">{{tool.name}}&nbsp;,&nbsp;</a>
+        {% endfor tools %}
+    </span>
+    </li>
+    {% endif %}
+
+    {% if projectlist.gems %}
+    <li><span class="smaller"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span>Gems Used:
+        {% for gem in projectlist.gems.all %}
+        <a href="{{gem.link}}" target="_blank">{{gem.name}}&nbsp;,&nbsp;</a>
+        {% endfor gem %}
+    </span>
+    </li>
+    {% endif %}
+
+    {% if projectlist.github_link %}
+    <li><span class="smaller"><span class="fa fa-github" aria-hidden="true"></span><a href="{{projectlist.github_link}}"
+                                                                                      target="_blank">&nbsp;Clone from github</a></span>
+    </li>
+    {% endif %}
+
+    {% if projectlist.bitbucket_link %}
+    <li><span class="smaller"><span class="fa fa-bitbucket" aria-hidden="true"></span><a
+            href="{{projectlist.bitbucket_link}}"
+            target="_blank">&nbsp;Clone from bitbucket</a></span>
+    </li>
+    {% endif %}
+
+    {% if projectlist.download_link %}
+    <li><span class="smaller"><span class="fa fa-cloud-download" aria-hidden="true"></span><a
+            href="{{projectlist.download_link}}"
+            target="_blank">&nbsp;Download</a></span>
+    </li>
+    {% endif %}
+
+    {% if projectlist.website_link %}
+    <li><span class="smaller"><span class="fa fa-laptop" aria-hidden="true"></span>
+        {% ifequal projectlist.website_link '#' %}
+        &nbsp;On going</span>
+        {% else %}
+        <a href="{{projectlist.website_link}}" target="_blank">&nbsp;Visit this website</a></span>
+        {% endifequal %}
+    </li>
+    {% endif %}
+
+
+</ul>
+{% endfor projectlist %}
+{% endfor project %}
+{% endblock project %}

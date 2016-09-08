@@ -4,6 +4,7 @@ from .models import Website
 from about.models import About
 from skill.models import Skill
 from experience.models import Experience
+from project.models import Project
 
 
 # Create your views here.
@@ -12,9 +13,11 @@ def home(request):
     about = About.objects.last()
     skills = Skill.objects.all().prefetch_related('subskill_set')
     experiences = Experience.objects.all().prefetch_related('todo_set')
+    projects = Project.objects.all().prefetch_related('projectlist_set')
     context = {'website': website,
                'about': about,
                'skills': skills,
-               'experiences': experiences
+               'experiences': experiences,
+               'projects': projects
                }
     return render(request, 'website.html', context)
