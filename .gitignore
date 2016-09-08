@@ -92,7 +92,7 @@ ENV/
 .idea
 
 # database
-#db.sqlite3
+db.sqlite3
 *.pyc
 myvenv
 __pycache__
