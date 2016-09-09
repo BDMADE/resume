@@ -18,7 +18,7 @@ class Organization(models.Model):
 class Certificate(models.Model):
     name = models.CharField(max_length=255)
     link = models.CharField(max_length=400)
-    organization = models.OneToOneField(Organization, on_delete=models.CASCADE)
+    organization = models.ForeignKey(Organization, on_delete=models.CASCADE)
 
     def __unicode__(self):
         return self.name
