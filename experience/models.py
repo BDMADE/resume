@@ -21,6 +21,8 @@ class Experience(models.Model):
     present = models.BooleanField(default=False)
     joining_date = models.DateField()
     ending_date = models.DateField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.designation
@@ -32,6 +34,8 @@ class Experience(models.Model):
 class Todo(models.Model):
     description = models.CharField(max_length=400)
     experience = models.ForeignKey(Experience, on_delete=models.CASCADE)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.description
