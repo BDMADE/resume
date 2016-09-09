@@ -70,7 +70,6 @@
 <!-- block for project -->
 {% block project %}
 
-
 {% for project in projects %}
 <h2 class="title"><span class="{{project.icon.icon_attribute}}" aria-hidden="true"></span>&nbsp;{{project.name}}</h2>
 
@@ -132,3 +131,16 @@
 {% endfor projectlist %}
 {% endfor project %}
 {% endblock project %}
+
+<!-- block for certificate -->
+{% block certificate %}
+<h2 class="title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>Certificates</h2>
+{% for certificate in certificates %}
+<ul>
+    <li><span class="bigger"><a href="{{certificate.link}}"
+                                target="_blank">{{certificate.name}}</a></span></li>
+    <li><span class="bigger2"><a href="{{certificate.organization.link}}" target="_blank"><b>{{certificate.organization.name}}</b></a></span></li>
+
+</ul>
+{% endfor certificate %}
+{% endblock certificate %}
