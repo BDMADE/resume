@@ -13,9 +13,9 @@ def home(request):
     website = Website.objects.last()
     about = About.objects.last()
     skills = Skill.objects.all().prefetch_related('subskill_set')
-    experiences = Experience.objects.all().prefetch_related('todo_set')
+    experiences = Experience.objects.all().prefetch_related('todo_set').order_by('created_at').reverse()
     projects = Project.objects.all().prefetch_related('projectlist_set')
-    certificates = Certificate.objects.all().order_by('name').reverse()
+    certificates = Certificate.objects.all().order_by('created_at').reverse()
     context = {'website': website,
                'about': about,
                'skills': skills,
