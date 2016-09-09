@@ -8,7 +8,7 @@ from icon.models import Icon
 class Type(models.Model):
     name = models.CharField(max_length=255)
     details = models.TextField(max_length=500)
-    icon = models.OneToOneField(Icon, null=True, on_delete=models.CASCADE)
+    icon = models.ForeignKey(Icon, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
@@ -22,6 +22,11 @@ class Type(models.Model):
 class Contact(models.Model):
     name = models.CharField(max_length=255)
     types = models.ManyToManyField(Type)
-    icon = models.OneToOneField(Icon, null=True, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
+
+    def __unicode__(self):
+        return self.name
+
+    def __str__(self):
+        return self.name
