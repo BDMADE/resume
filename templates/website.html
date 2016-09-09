@@ -14,17 +14,15 @@
 {% endblock website_logo %}
 
 <!-- block for about -->
-{% block about_name %}
-{{ about.name|safe }}
-{% endblock about_name %}
-
-{% block about_details %}
+{% block about %}
+<h1><b>{{ about.name|safe }}</b></h1>
 {{ about.details|safe }}
-{% endblock about_details %}
-
-{% block about_cv_link %}
-{{ about.cv_link|safe }}
-{% endblock about_cv_link %}
+{% if about.cv_link %}
+<a href="{{ about.cv_link|safe }}" target="_blank">
+    <button class="btn btn-1 btn-1c margin-top">Download my resume</button>
+</a>
+{% endif %}
+{% endblock about %}
 
 <!-- block for skill -->
 {% block skill %}
@@ -158,3 +156,16 @@
 </ul>
 {% endfor contact %}
 {% endblock contact %}
+
+
+<!-- block for online -->
+
+{% block online %}
+<ul class="social">
+    <li>Get Online</li>
+    {% for online in onlines %}
+    <li><a href="{{online.link}}" target="_blank"><i class="{{online.icon.icon_attribute}}"></i></a>
+    </li>
+    {% endfor online %}
+</ul>
+{% endblock online %}

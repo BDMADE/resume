@@ -7,6 +7,7 @@ from experience.models import Experience
 from project.models import Project
 from certificate.models import Certificate
 from contact.models import Contact
+from online.models import Online
 
 
 # Create your views here.
@@ -18,6 +19,7 @@ def home(request):
     projects = Project.objects.all().prefetch_related('projectlist_set')
     certificates = Certificate.objects.all().order_by('created_at').reverse()
     contact = Contact.objects.last()
+    onlines = Online.objects.all()
 
     context = {'website': website,
                'about': about,
@@ -25,6 +27,7 @@ def home(request):
                'experiences': experiences,
                'projects': projects,
                'certificates': certificates,
-               'contact': contact
+               'contact': contact,
+               'onlines': onlines
                }
     return render(request, 'website.html', context)
