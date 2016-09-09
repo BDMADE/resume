@@ -139,8 +139,22 @@
 <ul>
     <li><span class="bigger"><a href="{{certificate.link}}"
                                 target="_blank">{{certificate.name}}</a></span></li>
-    <li><span class="bigger2"><a href="{{certificate.organization.link}}" target="_blank"><b>{{certificate.organization.name}}</b></a></span></li>
-
+    <li><span class="bigger2"><a href="{{certificate.organization.link}}" target="_blank"><b>{{certificate.organization.name}}</b></a></span>
+    </li>
 </ul>
 {% endfor certificate %}
 {% endblock certificate %}
+
+<!-- block for contact -->
+
+{% block contact %}
+<h2 class="title"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span>Contact information</h2>
+{% for type in contact.types.all %}
+<ul>
+    <li><span class="smaller"><span class="{{type.icon.icon_attribute}}"
+                                    aria-hidden="true"></span>&nbsp;{{type.name}}</span></li>
+    <li><span class="bigger">{{type.details}}</span></li>
+
+</ul>
+{% endfor contact %}
+{% endblock contact %}
