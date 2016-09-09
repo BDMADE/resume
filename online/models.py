@@ -9,7 +9,7 @@ from icon.models import Icon
 class Online(models.Model):
     name = models.CharField(max_length=250)
     link = models.CharField(max_length=500)
-    icon = models.OneToOneField(Icon, null=True, on_delete=models.CASCADE)
+    icon = models.ForeignKey(Icon, on_delete=models.CASCADE)
 
     def __unicode__(self):
         return self.name
