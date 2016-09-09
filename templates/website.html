@@ -46,7 +46,7 @@
 {% for experience in experiences %}
 <ul>
     <li><span class="smaller"><span class="time glyphicon glyphicon-time" aria-hidden="true"></span>
-        {{ experience.joining_date }} - {% if experience.present %}Present{% endif %}{% if experience.ending_date %}{{ experience.ending_date }}{% endif %}</span>
+        {{ experience.joining_date|date:'F , Y' }} - {% if experience.present %}Present{% endif %}{% if experience.ending_date %}{{ experience.ending_date|date:'F , Y' }}{% endif %}</span>
     </li>
     <li><span class="bigger">{{ experience.designation }}</span></li>
     {% if experience.department %}
