@@ -145,9 +145,7 @@ ALLOWED_HOSTS = ['*']
 
 # STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
-# STATIC_URL = '/static/'
-
-# Extra places for collectstatic to find static files.
+STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
 # STATICFILES_DIRS = [
 #     os.path.join(PROJECT_ROOT, 'static'),
 # ]
