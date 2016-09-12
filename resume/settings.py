@@ -12,6 +12,10 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 import os
 import dj_database_url
 
+
+# root = environ.Path(__file__) - 1  # three folder back (/a/b/c/ - 3 = /)
+# env = environ.Env(DEBUG=(bool, True), )  # set default values and casting
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -153,13 +157,12 @@ STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
 MEDIA_URL = "/media/"
 # MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
 
-STATICFILES_DIRS = [
-    os.path.join(PROJECT_ROOT, 'static'),
-]
+# STATICFILES_DIRS = [
+#     os.path.join(PROJECT_ROOT, 'static'),
+# ]
 
 # Simplified static file serving.MEDIA_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
-# DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'  # https://warehouse.python.org/project/whitenoise/
-# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 # adding aws cache system
 AWS_HEADERS = {  # see http://developer.yahoo.com/performance/rules.html#expires
     'Expires': 'Thu, 31 Dec 2099 20:00:00 GMT',
