@@ -151,14 +151,14 @@ STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
 # ]
 
 MEDIA_URL = "/media/"
-MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
+# MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
 
 STATICFILES_DIRS = [
     os.path.join(PROJECT_ROOT, 'static'),
 ]
 
-# Simplified static file serving.
-# https://warehouse.python.org/project/whitenoise/
+# Simplified static file serving.MEDIA_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'  # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 # adding aws cache system
 AWS_HEADERS = {  # see http://developer.yahoo.com/performance/rules.html#expires
@@ -179,5 +179,9 @@ AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 # This is used by the `static` template tag from `static`, if you're using that. Or if anything else
 # refers directly to STATIC_URL. So it's safest to always set it.
 STATIC_ROOT = "https://%s/" % AWS_S3_CUSTOM_DOMAIN  # Tell the staticfiles app to use S3Boto storage when writing the collected static files (when
+# MEDIA_ROOT = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
 # you run `collectstatic`).
 STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+
+MEDIA_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+MEDIAFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
