@@ -144,20 +144,20 @@ ALLOWED_HOSTS = ['*']
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 # STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
-STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
+STATIC_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "static_cdn")
+STATIC_URL = '/static/'  # Extra places for collectstatic to find static_cdn files.
 # STATICFILES_DIRS = [
-#     os.path.join(PROJECT_ROOT, 'static'),
+#     os.path.join(PROJECT_ROOT, 'static_cdn'),
 # ]
 
 MEDIA_URL = "/media/"
 MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
+    os.path.join(PROJECT_ROOT, 'static_cdn'),
 ]
 
-# Simplified static file serving.
+# Simplified static_cdn file serving.
 # https://warehouse.python.org/project/whitenoise/
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
@@ -173,14 +173,14 @@ AWS_SECRET_ACCESS_KEY = 'rVlLT54MqU50JuMwzi7ryHl1e6vrhq6Ew/c2sgHO'
 
 # Tell django-storages that when coming up with the URL for an item in S3 storage, keep
 # it simple - just use this domain plus the path. (If this isn't set, things get complicated).
-# This controls how the `static` template tag from `staticfiles` gets expanded, if you're using it.
+# This controls how the `static_cdn` template tag from `staticfiles` gets expanded, if you're using it.
 # We also use it in the next setting.
 AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 
-# This is used by the `static` template tag from `static`, if you're using that. Or if anything else
+# This is used by the `static_cdn` template tag from `static_cdn`, if you're using that. Or if anything else
 # refers directly to STATIC_URL. So it's safest to always set it.
 STATIC_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
 
-# Tell the staticfiles app to use S3Boto storage when writing the collected static files (when
+# Tell the staticfiles app to use S3Boto storage when writing the collected static_cdn files (when
 # you run `collectstatic`).
 STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
