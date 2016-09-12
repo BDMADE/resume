@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3d30583-c186-4263-bf31-30c44debd78e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,13 +30,24 @@
             <state relative-caret-position="2551">
               <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
               <folding>
-                <element signature="e#325#334#0" expanded="true" />
+                <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="121">
@@ -59,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
+              <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -93,11 +105,11 @@
         <option value="$PROJECT_DIR$/online/models.py" />
         <option value="$PROJECT_DIR$/website/views.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/templates/website.html" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resume/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -462,7 +474,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -480,7 +493,8 @@
         <state relative-caret-position="2700">
           <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -498,7 +512,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -530,7 +545,8 @@
         <state relative-caret-position="1470">
           <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -576,7 +592,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -742,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/website.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -762,14 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -787,7 +788,8 @@
         <state relative-caret-position="2551">
           <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
           <folding>
-            <element signature="e#325#334#0" expanded="true" />
+            <marker date="1473680794514" expanded="true" signature="0:323" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1473680794514" expanded="true" signature="325:358" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -796,6 +798,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
