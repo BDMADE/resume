@@ -144,7 +144,7 @@ ALLOWED_HOSTS = ['*']
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 # STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
-STATIC_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "static")
+# STATIC_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "static")
 STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
 # STATICFILES_DIRS = [
 #     os.path.join(PROJECT_ROOT, 'static'),
@@ -159,8 +159,7 @@ STATICFILES_DIRS = [
 
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
-# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 # adding aws cache system
 AWS_HEADERS = {  # see http://developer.yahoo.com/performance/rules.html#expires
     'Expires': 'Thu, 31 Dec 2099 20:00:00 GMT',
@@ -179,8 +178,6 @@ AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 
 # This is used by the `static` template tag from `static`, if you're using that. Or if anything else
 # refers directly to STATIC_URL. So it's safest to always set it.
-STATIC_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
-
-# Tell the staticfiles app to use S3Boto storage when writing the collected static files (when
+STATIC_ROOT = "https://%s/" % AWS_S3_CUSTOM_DOMAIN  # Tell the staticfiles app to use S3Boto storage when writing the collected static files (when
 # you run `collectstatic`).
 STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'

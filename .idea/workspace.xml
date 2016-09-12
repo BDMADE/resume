@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3d30583-c186-4263-bf31-30c44debd78e" name="Default" comment="" />
+    <list default="true" id="a3d30583-c186-4263-bf31-30c44debd78e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/settings.py" afterPath="$PROJECT_DIR$/resume/settings.py" />
+    </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,8 +27,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+            <state relative-caret-position="391">
+              <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
               <folding>
                 <element signature="e#325#334#0" expanded="true" />
               </folding>
@@ -689,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
           <folding>
             <element signature="e#325#334#0" expanded="true" />
           </folding>
