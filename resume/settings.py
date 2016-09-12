@@ -12,6 +12,10 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 import os
 import dj_database_url
 
+
+# root = environ.Path(__file__) - 1  # three folder back (/a/b/c/ - 3 = /)
+# env = environ.Env(DEBUG=(bool, True), )  # set default values and casting
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -48,6 +52,8 @@ INSTALLED_APPS = [
     # http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
     'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
+    # adding s3 storage
+    'storages'
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -142,21 +148,37 @@ ALLOWED_HOSTS = ['*']
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 # STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
-STATIC_URL = '/static/'
-
-# Extra places for collectstatic to find static files.
+# STATIC_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "static")
+STATIC_URL = '/static/'  # Extra places for collectstatic to find static files.
 # STATICFILES_DIRS = [
 #     os.path.join(PROJECT_ROOT, 'static'),
 # ]
 
 MEDIA_URL = "/media/"
-MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
+# MEDIA_ROOT = os.path.join(os.path.dirname(PROJECT_ROOT), "media_cdn")
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
-]
+# STATICFILES_DIRS = [
+#     os.path.join(PROJECT_ROOT, 'static'),
+# ]
 
-# Simplified static file serving.
-# https://warehouse.python.org/project/whitenoise/
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+# Simplified static file serving.MEDIA_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+
+# adding aws cache system
+AWS_HEADERS = {  # see http://developer.yahoo.com/performance/rules.html#expires
+    'Expires': 'Thu, 31 Dec 2099 20:00:00 GMT',
+    'Cache-Control': 'max-age=94608000',
+}
+
+AWS_STORAGE_BUCKET_NAME = 'tanbir-resume'
+AWS_ACCESS_KEY_ID = 'AKIAIOAG6PYTVJGR35DQ'
+AWS_SECRET_ACCESS_KEY = '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'
+
+AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
+
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+
+STATIC_ROOT = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+
+MEDIA_ROOT = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+MEDIAFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
