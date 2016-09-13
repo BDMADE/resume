@@ -10,8 +10,12 @@
 {% endblock website_name %}
 
 {% block website_logo %}
-<img class="mesmall" src="{{ website.logo.url }}" alt="tanbir">
+<img class="mesmall" src="{{ website.logo.url }}" alt="{{website.name|safe}}">
 {% endblock website_logo %}
+
+{% block website_favicon %}
+<link rel="shortcut icon" type="image/x-icon" href="{{ website.favicon_icon.url }}">
+{% endblock website_favicon %}
 
 <!-- block for about -->
 {% block about %}

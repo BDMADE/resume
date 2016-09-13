@@ -17,7 +17,7 @@
           href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel='stylesheet' href="{% static 'css/styles.css' %}"/>
-    <link rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
+    {% block website_favicon %}{% endblock website_favicon %}
 
     <!-- Google Font -->
     <link
