@@ -7,7 +7,8 @@ from django.db import models
 class Website(models.Model):
     title = models.CharField(max_length=255)
     name = models.CharField(max_length=255)
-    logo = models.ImageField(max_length=255, upload_to='images/')
+    logo = models.ImageField(max_length=255, upload_to='images/logo/')
+    favicon_icon = models.ImageField(max_length=255, upload_to='images/favicon/')
 
     def __unicode__(self):
         return self.name
