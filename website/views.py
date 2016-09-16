@@ -14,9 +14,9 @@ from online.models import Online
 def home(request):
     website = Website.objects.last()
     about = About.objects.last()
-    skills = Skill.objects.all().prefetch_related('subskill_set')
+    skills = Skill.objects.all().prefetch_related('subskill_set').order_by('created_at')
     experiences = Experience.objects.all().prefetch_related('todo_set').order_by('created_at').reverse()
-    projects = Project.objects.all().prefetch_related('projectlist_set')
+    projects = Project.objects.all().prefetch_related('projectlist_set').order_by('created_at').reverse()
     certificates = Certificate.objects.all().order_by('created_at').reverse()
     contact = Contact.objects.last()
     onlines = Online.objects.all()
