@@ -8,6 +8,8 @@ from icon.models import Icon
 class Project(models.Model):
     name = models.CharField(max_length=255)
     icon = models.OneToOneField(Icon, null=True, on_delete=models.CASCADE)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.name
@@ -19,6 +21,8 @@ class Project(models.Model):
 class Tool(models.Model):
     name = models.CharField(max_length=255)
     link = models.CharField(max_length=255, blank=True)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.name
@@ -30,6 +34,8 @@ class Tool(models.Model):
 class Gem(models.Model):
     name = models.CharField(max_length=255)
     link = models.CharField(max_length=255, blank=True)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.name
@@ -48,6 +54,8 @@ class ProjectList(models.Model):
     website_link = models.CharField(max_length=255, null=True, blank=True)
     tools = models.ManyToManyField(Tool, blank=True)
     gems = models.ManyToManyField(Gem, blank=True)
+    created_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True, auto_now_add=False)
 
     def __unicode__(self):
         return self.name
