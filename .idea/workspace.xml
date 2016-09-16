@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a3d30583-c186-4263-bf31-30c44debd78e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website/views.py" afterPath="$PROJECT_DIR$/website/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/website.html" afterPath="$PROJECT_DIR$/templates/website.html" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,17 +44,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="website.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="website.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/website.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -109,10 +109,10 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/static/css/styles.css" />
         <option value="$PROJECT_DIR$/website/models.py" />
-        <option value="$PROJECT_DIR$/templates/website.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/project/models.py" />
         <option value="$PROJECT_DIR$/website/views.py" />
+        <option value="$PROJECT_DIR$/templates/website.html" />
       </list>
     </option>
   </component>
@@ -740,14 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/certificate/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -806,6 +798,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/website.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -37,9 +37,9 @@
     {% for subskill in skill.subskill_set.all %}
     <li><span class="bigger2"><i class="fa fa-angle-double-right"></i>&nbsp;<a href="{{subskill.link}}" target="_blank">{{subskill.name}}</a></span>
     </li>
-    {% endfor %}
-    {% endfor %}
+    {% endfor subskill %}
 </ul>
+{% endfor skill %}
 {% endblock skill %}
 
 <!-- block for experience -->
